@@ -26,7 +26,7 @@ Agile (Scrum, Kanban) • TDD • CI/CD • Clean Code • UI/UX collaboration
 ## 🚀 Projects
 
 ### 🔷 Educational Web Application *(RWTH Aachen, 2024)*
-##Student And Course Management Application
+**Student And Course Management Application**
 A full-stack learning platform developed using:
 - **Frontend**: React.js.
 - **Backend**: Spring Boot
